@@ -1,0 +1,6 @@
+﻿  main.cpp
+  PhysicalObject.cpp
+  RubberBall.cpp
+  Generating Code...
+C:\Users\sayba\Documents\CS\C++\phys_simulations\bouncing_balls\sim1\main.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sim1.vcxproj -> C:\Users\sayba\Documents\CS\C++\phys_simulations\bouncing_balls\x64\Debug\sim1.exe

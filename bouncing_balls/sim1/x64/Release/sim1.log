@@ -1,0 +1,11 @@
+﻿  main.cpp
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_std_error
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_CreateCompress
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_destroy_compress
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_stdio_dest
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_set_defaults
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_set_quality
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_start_compress
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_write_scanlines
+sfml-graphics-s.lib(ImageLoader.cpp.obj) : error LNK2001: unresolved external symbol jpeg_finish_compress
+C:\Users\sayba\Documents\CS\C++\simulations\sim1\x64\Release\sim1.exe : fatal error LNK1120: 9 unresolved externals
